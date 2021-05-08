@@ -1,4 +1,5 @@
-<p align="center">
+<html>
+  <p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
 <hr>
@@ -10,3 +11,4 @@
  <a href = "mailto: akshayvj1995@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
 </p>
 </p>
+</html>
